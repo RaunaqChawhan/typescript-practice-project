@@ -1,0 +1,26 @@
+{
+  "name": "typescript-practice-project",
+  "version": "1.0.0",
+  "description": "Practice project to understand typescript",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaunaqChawhan/typescript-practice-project.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Raunaq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaunaqChawhan/typescript-practice-project/issues"
+  },
+  "homepage": "https://github.com/RaunaqChawhan/typescript-practice-project#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
