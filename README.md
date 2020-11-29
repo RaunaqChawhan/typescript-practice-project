@@ -1,1 +1,1 @@
-##### Practice project to understand TypeScript
+### Practice project to understand TypeScript
